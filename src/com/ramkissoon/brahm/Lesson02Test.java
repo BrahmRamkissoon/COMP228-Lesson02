@@ -2,7 +2,7 @@ package com.ramkissoon.brahm;
 
 import java.util.Scanner;
 
-public class Program {
+public class Lesson02Test {
 	public static Person person;	//reference to the Person class	
 	public static void main(String[] args) {
 		System.out.println("Program started...");
